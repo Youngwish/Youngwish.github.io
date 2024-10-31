@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shiyong Wu (吴世勇)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./WU.png"
-  name             : "Youngwish (吴世勇)"
+  name             : "Shiyong Wu (吴世勇)"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Prof., Doctoral supervisor"
   location         : "China Guangzhou"

@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./WU.png"
-  name             : "Youngwish(吴世勇)"
+  name             : "Youngwish (吴世勇)"
   pronouns         : # example: "she/her"  
   bio              : "Shiyong Wu"
-  location         : "Earth"
+  location         : "Guangzhou China"
   employer         : "South China Normal University"
   uri              : # URL
   email            : "shiyong.wu@m.scnu.edu.cn" 
